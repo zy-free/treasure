@@ -1,4 +1,4 @@
-package binary
+package codec
 
 // BigEndian big endian.
 var BigEndian bigEndian

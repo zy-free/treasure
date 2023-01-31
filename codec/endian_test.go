@@ -1,4 +1,4 @@
-package binary
+package codec
 
 import "testing"
 
