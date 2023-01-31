@@ -1,4 +1,4 @@
-package str
+package stringx
 
 import (
 	"bytes"
@@ -53,3 +53,4 @@ func SplitInts(s string) ([]int64, error) {
 	}
 	return res, nil
 }
+
